@@ -12,6 +12,5 @@ public:
 	double Perimeter();
 	~Polygon();
 	virtual double Area() = 0;
-	virtual void PrintData() =0;
-};
-
+	virtual void PrintData() = 0;
+};

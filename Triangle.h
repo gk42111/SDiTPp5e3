@@ -12,4 +12,3 @@ public:
 	~Triangle();
 	void PrintData();
 };
-

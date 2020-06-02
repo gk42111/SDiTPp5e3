@@ -9,5 +9,4 @@ public:
 	~Rectangle();
 	double Area();
 	void PrintData();
-};
-
+};
